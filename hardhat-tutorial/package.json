@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "hardhat": "^2.19.1",
-    "node": "^21.2.0"
-  }
-}
